@@ -1,10 +1,6 @@
 # mview
 Nview is a powefull text editor on linux
-██████    ██    ██  ██    ████    ██      ██  ████
-██    ██  ██    ██      ██    ██  ██      ██  ████
-██    ██  ██    ██  ██  ████████  ██  ██  ██  ████
-██    ██  ██    ██  ██  ██        ██  ██  ██  ████
-██    ██    ████    ██    ██████    ██  ██    ████
+
 İNSTALLATİON AND USER GUİDE
 # nview 0.6.0 "Pocket GUI"
 
