@@ -1,8 +1,7 @@
-# mview
-Nview is a powefull text editor on linux
 
-İNSTALLATİON AND USER GUİDE
-# nview 0.6.0 "Pocket GUI"
+
+İNSTALLATİON AND USEAGE GUİDE
+
 
 A colorful, minimal, Neovim-style text editor and viewer.
 
@@ -399,14 +398,4 @@ A bad regex or bad input shows a message and never crashes the editor.
     :sum          Sum all numbers in the range
     :where        Path, size, language and modified time of this file
 
-## Changes (0.3.0)
 
-- Edit mode, saving, undo, line delete/paste added. The previous release was read-only; `:w` gave E45.
-- Ctrl-S saves and Ctrl-Q quits (terminal flow control is off, so Ctrl-S does not freeze the terminal).
-- `nview read` added (non-interactive, colored output).
-- Screen redraw (Ctrl-l, `:redraw`) and reload from disk (`:e!`).
-- Theme option (4 themes) and language option (Turkish / English).
-- New splash screen; header and status bar added.
-- A file name that does not exist opens a new file instead of failing.
-- A clear error message when the terminal is not interactive.
-- The installer looks like the app's splash screen.
